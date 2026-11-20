@@ -32,4 +32,3 @@ event: response.completed
 data: {"type":"response.completed","sequence_number":11,"response":{"created_at":123,"id":"","model":"gpt-4.1-mini","object":"response","output":[],"status":"completed","usage":{"input_tokens":12,"input_tokens_details":{"cached_tokens":0},"output_tokens":8,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":20}}}
 
 data: [DONE]
-
